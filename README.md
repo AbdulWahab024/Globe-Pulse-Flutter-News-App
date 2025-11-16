@@ -1,3 +1,4 @@
+
 # 📰 Globe Pulse – Flutter News App
 
 ## 🚀 Overview
@@ -78,6 +79,17 @@ lib/
 ## 🎨 UI Highlights
 - 🧭 Modern Bottom Navigation Bar
 - 💬 Clean Typography System
+## 📸 App Preview
+<p float="left">
+  <img src="assets/screenshots/image1.jpeg" width="15%" />
+  <img src="assets/screenshots/image2.jpeg" width="15%" />
+  <img src="assets/screenshots/image4.jpeg" width="15%" />
+  <img src="assets/screenshots/image3.jpeg" width="15%" />
+  <img src="assets/screenshots/image6.jpeg" width="15%" />
+  <img src="assets/screenshots/image7.jpeg" width="15%" />
+  <img src="assets/screenshots/image5.jpeg" width="15%" />  
+</p>
+
 ## 🧑‍💻 Developed by
 
 Abdul Wahab | Flutter Developer 
